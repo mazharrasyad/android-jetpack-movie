@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Jetpack Movie III</string>
+    <string name="tab_movie">Movie</string>
+    <string name="tab_tv">TV</string>
+    <string name="toolbar_detail">Detail</string>
+    <string name="item_judul">Judul Movie</string>
+    <string name="item_tanggal">Jun 01, 2021</string>
+    <string name="item_skor">100%</string>
+    <string name="overview_judul">Overview</string>
+    <string name="item_overview">Isi Overview</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="pesan_batal">Batalkan menghapus dari favorite?</string>
+    <string name="pesan_setuju">Ok</string>
+    <string name="tab_movie_fav">Movie Fav</string>
+    <string name="tab_tv_fav">TV Fav</string>
+</resources>

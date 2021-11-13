@@ -1,0 +1,84 @@
+{
+  "tvs": [
+    {
+      "dataId": "t1",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/ss4AocYgqZ06aSBiw1DWlSi9qz2.jpg",
+      "judul": "Franky Snow",
+      "tanggal": "Jan 01, 2007",
+      "skor": "100%",
+      "overview": "We dont have an overview translated in English. Help us expand our database by adding one."
+    },
+    {
+      "dataId": "t2",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/emhR1R4RoInbTkJjzFbBaQW9Hn7.jpg",
+      "judul": "Love in a second world",
+      "tanggal": "May 03, 2021",
+      "skor": "100%",
+      "overview": "We dont have an overview translated in English. Help us expand our database by adding one."
+    },
+    {
+      "dataId": "t3",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/6O5HRRTk8hykC1lO3mBKUyG0Dc1.jpg",
+      "judul": "Hasya Katta Official",
+      "tanggal": "Aug 14, 2020",
+      "skor": "100%",
+      "overview": "Hasya Katta Official a youtube show by Smit Shetye"
+    },
+    {
+      "dataId": "t4",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/uURwwsf4E56FNp5AwHC8sKQrEiV.jpg",
+      "judul": "Mighty Express",
+      "tanggal": "Sep 22, 2020",
+      "skor": "100%",
+      "overview": "Catch a ride with the Mighty Express — a team of trains and their kid friends who overcome trouble on the tracks with quick thinking and teamwork!"
+    },
+    {
+      "dataId": "t5",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/5XfvHjDxa6GMVgeeVbQZu92HbMy.jpg",
+      "judul": "Master of Task",
+      "tanggal": "Aug 03, 2020",
+      "skor": "100%",
+      "overview": "We dont have an overview translated in English. Help us expand our database by adding one."
+    },
+    {
+      "dataId": "t6",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/uhQY8ppUgpYIC0LwtJjuA1REZzN.jpg",
+      "judul": "Buddi",
+      "tanggal": "Mar 20, 2020",
+      "skor": "100%",
+      "overview": "The Buddis bounce, spin, glide — and giggle! — through their magical world, learning new things and sharing the joy of friendship."
+    },
+    {
+      "dataId": "t7",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/uNk9ygic7W4tuIWoYqyocDLFibf.jpg",
+      "judul": "Dr. Panda TotoTime",
+      "tanggal": "Nov 03, 2017",
+      "skor": "100%",
+      "overview": "The adventures of Dr. Panda and Toto as they go on awesome adventures in Panda City. They discover the world together with their friends Bip, Olette, Meimei, Hoopa, Moo, Richy &amp; June and solve puzzles, learn about shapes, colors, numbers and more."
+    },
+    {
+      "dataId": "t8",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/1KhwbhsKXXbYHMPncID0alOS6gk.jpg",
+      "judul": "Loup",
+      "tanggal": "Jan 01, 2019",
+      "skor": "100%",
+      "overview": "We dont have an overview translated in English. Help us expand our database by adding one."
+    },
+    {
+      "dataId": "t9",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/eMLVOOPY2l6yWKRgC0yFew4xYXZ.jpg",
+      "judul": "Angry Birds Blues",
+      "tanggal": "Mar 10, 2017",
+      "skor": "100%",
+      "overview": "Angry Birds Blues is a Finnish computer-animated television series starring the Blues (Jay, Jake and Jim) and the Hatchlings that appeared in The Angry Birds Movie. Animated in the same style as the movie, it was produced by Rovio Entertainment along with its affiliated company Kaiken Entertainment, with Bardel Entertainment providing its animation. The series premiered on 10 March 2017 on the Toons.TV channel, before continuing on the Angry Birds official YouTube channel after ToonsTV was shut down."
+    },
+    {
+      "dataId": "t10",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/3a3UPopPpqHzJA7iVpIjejSOMcO.jpg",
+      "judul": "Counterfeit Cat",
+      "tanggal": "May 12, 2016",
+      "skor": "100%",
+      "overview": "Gark is not a real cat. He’s a Counterfeit Cat. He’s a small blue alien in a purple cat costume. Max is a real cat: fat, fluffy, yellow and constantly pampered by his doting owner Betty. When Gark crashes his spaceship into Betty’s laundry room, he finds a new home and forms an unconventional friendship with Max, who quickly learns how to take advantage of Gark’s mysterious alien powers and his sweet, trusting nature. Max loves having an admirer who will do anything for him, but Gark’s extreme curiosity and lack of understanding about life on Earth push Max out of his comfort zone and into ridiculous hair-raising adventures. Whether they are just hanging out at home or zipping through space and exploring new planets, Gark’s adventurous instincts will force Max to become the hero Gark believes him to be."
+    }
+  ]
+}

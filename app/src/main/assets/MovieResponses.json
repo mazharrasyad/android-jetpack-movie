@@ -1,0 +1,84 @@
+{
+  "movies": [
+    {
+      "dataId": "m1",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "judul": "The Lion King",
+      "tanggal": "Feb 11, 2021",
+      "skor": "83%",
+      "overview": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?"
+    },
+    {
+      "dataId": "m2",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/3g8vyePqVatTaUSnrNnrrwguhxM.jpg",
+      "judul": "WALL·E",
+      "tanggal": "Jun 23, 1994",
+      "skor": "80%",
+      "overview": "WALL·E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL·E thinks hes finally found a friend and stows away on the ship when it leaves."
+    },
+    {
+      "dataId": "m3",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/cotIVIwA72zGbyJFacCIBXBWssG.jpg",
+      "judul": "Paperman",
+      "tanggal": "Jun 22, 2008",
+      "skor": "80%",
+      "overview": "An urban office worker finds that paper airplanes are instrumental in meeting a girl in ways he never expected."
+    },
+    {
+      "dataId": "m4",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/5KlRFKKSbyCiyYpZSS3A6G5bW0K.jpg",
+      "judul": "Akira",
+      "tanggal": "Nov 02, 2012",
+      "skor": "79%",
+      "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop."
+    },
+    {
+      "dataId": "m5",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/eAdO0qa9m0NFSVLZ26PvCwmPlsr.jpg",
+      "judul": "Up",
+      "tanggal": "Jul 16, 1988",
+      "skor": "79%",
+      "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life."
+    },
+    {
+      "dataId": "m6",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/kPwxXszZDhCShmb82tCjkV15XsV.jpg",
+      "judul": "The Iron Giant",
+      "tanggal": "May 28, 2009",
+      "skor": "79%",
+      "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices."
+    },
+    {
+      "dataId": "m7",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/6hAgSxgd2YIK5pYhwowtnlGpwbe.jpg",
+      "judul": "Feast",
+      "tanggal": "Aug 06, 1999",
+      "skor": "79%",
+      "overview": "This Oscar-winning animated short film tells the story of one mans love life as seen through the eyes of his best friend and dog, Winston, and revealed bite by bite through the meals they share."
+    },
+    {
+      "dataId": "m8",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/hCaUWmS7GyQAyfNfsJdZyZrEc5U.jpg",
+      "judul": "La luna",
+      "tanggal": "Oct 25, 2014",
+      "skor": "79%",
+      "overview": "A young boy comes of age in the most peculiar of circumstances. Tonight is the very first time his Papa and Grandpa are taking him to work. In an old wooden boat they row far out to sea, and with no land in sight, they stop and wait. A big surprise awaits the boy as he discovers his familys most unusual line of work. Should he follow the example of his Papa, or his Grandpa? Will he be able to find his own way in the midst of their conflicting opinions and timeworn traditions?"
+    },
+    {
+      "dataId": "m9",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/pHHWwdv77IUlyGlfEZxkB3yJcij.jpg",
+      "judul": "Partly Cloudy",
+      "tanggal": "Feb 10, 2012",
+      "skor": "79%",
+      "overview": "Everyone knows that the stork delivers babies, but where do the storks get the babies from? The answer lies up in the stratosphere, where cloud people sculpt babies from clouds and bring them to life. Gus, a lonely and insecure grey cloud, is a master at creating dangerous babies. Crocodiles, porcupines, rams and more - Guss beloved creations are works of art, but more than a handful for his loyal delivery stork partner, Peck. As Guss creations become more and more rambunctious, Pecks job gets harder and harder. How will Peck manage to handle both his hazardous cargo and his friends fiery temperament?"
+    },
+    {
+      "dataId": "m10",
+      "poster": "https://www.themoviedb.org/t/p/w220_and_h330_face/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+      "judul": "Finding Nemo",
+      "tanggal": "May 30, 2003",
+      "skor": "78%",
+      "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentists office aquarium. Its up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home — meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way."
+    }
+  ]
+}
