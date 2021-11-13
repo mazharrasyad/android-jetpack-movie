@@ -12,9 +12,9 @@
     <td><img src="/images/4.jpeg" width="240"></td>    
   </tr>
   <tr align="center">
-    <td>Detail Movie - Favorite Click</td>
+    <td>Detail Movie - Favorite Clicked</td>
     <td>Home - TV - Option</td>
-    <td>Detail TV - Favorite Click</td>
+    <td>Detail TV - Favorite Clicked</td>
   </tr>
   <tr>
     <td><img src="/images/5.jpeg" width="240"></td>
