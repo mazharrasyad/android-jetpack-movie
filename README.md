@@ -1,4 +1,4 @@
-# Github Clone
+# Jetpack Movie
 
 <table>
   <tr align="center">
